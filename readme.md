@@ -38,47 +38,47 @@ Some images from project. For see all the screens, checkout and run it locally.
 ### Dashboard
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/dashboard.png" alt="Dashboard">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/dashboard.png" alt="Dashboard">
 </kbd>
 
 ### Dashboard creating information
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/dashboard_create.png" alt="Dashboard creating information">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/dashboard_create.png" alt="Dashboard creating information">
 </kbd>
 
 ### Dashboard viewing information
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/dashboard_view.png" alt="Dashboard viewing information">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/dashboard_view.png" alt="Dashboard viewing information">
 </kbd>
 
 ### Frontend validation
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/frontend_input_validation.png" alt="Frontend validation">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/frontend_input_validation.png" alt="Frontend validation">
 </kbd>
 
 ### Backend validation
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/backend_input_validation.png" alt="Backend validation">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/backend_input_validation.png" alt="Backend validation">
 </kbd>
 
 ### Group add
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/group_add.png" alt="Group add">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/group_add.png" alt="Group add">
 </kbd>
 
 ### Group add user
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/group_add_users.png" alt="Group add user">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/group_add_users.png" alt="Group add user">
 </kbd>
 
 ### Group list
 
 <kbd>
-<img src="https://github.com/andersonalvesme/passup/blob/master/_readme_images/group_list.png" alt="Group list">
+<img src="https://github.com/andersonalvesme/passup-password-manager/blob/master/_readme_images/group_list.png" alt="Group list">
 </kbd>
